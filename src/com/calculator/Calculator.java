@@ -16,8 +16,8 @@ public class Calculator {
 			int divide = divide(a, b);
 			
 			System.out.println("The sum is: " + sum);
-			System.out.println("The difference is: " + subtract);
-			System.out.println("The product is: " + multiply);
+			System.out.println("The subtraction is: " + subtract);
+			System.out.println("The production is: " + multiply);
 			System.out.println("The quotient is: " + divide);
 		}
     }
